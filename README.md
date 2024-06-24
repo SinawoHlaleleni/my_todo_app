@@ -6,5 +6,4 @@ The code is on todo_app.py then the test in on test_todo_app.py.
 
 Run Project on your cmd:
 ------------------------
-- cd to my_todo_app (inside project)
 - Run: **python -m pytest tests/**
